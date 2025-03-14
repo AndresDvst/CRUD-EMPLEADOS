@@ -13,7 +13,6 @@ Este proyecto es parte de mi formación, y quiero compartirlo con la comunidad p
 - **Autenticación de usuarios:** Los usuarios pueden registrarse e iniciar sesión para acceder al sistema.  
 - **Gestión de empleados:** El sistema permite agregar, editar, eliminar y visualizar los detalles de los empleados.  
 - **Conexión a MySQL en la nube:** La base de datos está alojada en un servidor MySQL en la nube, permitiendo acceso remoto y seguridad en el manejo de datos.  
-- **Interfaz terminal interactiva:** El sistema está diseñado para interactuar a través de la terminal, lo que hace la experiencia más sencilla y práctica para el usuario.  
 - **CRUD básico:** Permite realizar las operaciones esenciales sobre los registros de los empleados, como crear nuevos registros, actualizar datos, eliminar empleados y listar todos los empleados.
 
 ## 💡 **Recomendaciones y Sugerencias**  
@@ -46,5 +45,6 @@ Estoy interesado en optimizar el código, agregar más funcionalidades y mejorar
 ## ⚙️ **Configuración y Uso**  
 
 1. **Clonar el repositorio**:
+   
    ```bash
-   git clone https://github.com/AndresDvst/gestion-empleados-crud.git
+   git clone https://github.com/AndresDvst/CRUD-EMPLEADOS.git
